@@ -1,0 +1,39 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["EID_Fresh"],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": ["Pickaxe_ID_188_StreetAssassin"],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": ["BID_468_Cyclone"],
+    "price": 300
+  },
+  "daily4": {
+    "itemGrants": ["EID_CycloneHeadBang"],
+    "price": 300
+  },
+  "daily5": {
+    "itemGrants": ["EID_HeelClick"],
+    "price": 200
+  },
+  "daily6": {
+    "itemGrants": ["CID_526_Athena_Commando_F_DesertOpsSwamp"],
+    "price": 800
+  },
+  "featured1": {
+    "itemGrants": ["CID_503_Athena_Commando_F_TacticalWoodlandFuture"],
+    "price": 800
+  },
+  "featured2": {
+    "itemGrants": ["CID_459_Athena_Commando_F_Zodiac"],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": ["CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
+    "price": 1500
+  }
+}

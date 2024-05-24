@@ -1,0 +1,12 @@
+EID_Fresh, 800
+Pickaxe_ID_188_StreetAssassin, 500 
+BID_468_Cyclone, 300
+na
+na
+na
+EID_CycloneHeadBang, 300
+EID_HeelClick, 200
+CID_526_Athena_Commando_F_DesertOpsSwamp, 800
+CID_503_Athena_Commando_F_TacticalWoodlandFuture, 800
+CID_459_Athena_Commando_F_Zodiac, 1200
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
